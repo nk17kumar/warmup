@@ -74,7 +74,7 @@ public class Demo {
 			// fetching LCAs for given input
 			Set <Person> lca = executer.closestAncestors(obj.info.getPerson1(),obj.info.getPerson2());
 			
-			if(lca == null) {
+			if(lca == null || lca.size() == 0) {
 				System.out.println("no common ancestor exists");
 			}
 			else {
