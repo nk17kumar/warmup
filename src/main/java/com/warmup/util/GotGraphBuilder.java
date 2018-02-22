@@ -1,4 +1,4 @@
-package warmup.util;
+package com.warmup.util;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
@@ -12,8 +12,8 @@ import org.jgrapht.io.EdgeProvider;
 import org.jgrapht.io.ImportException;
 import org.jgrapht.io.VertexProvider;
 
-import warmup.dao.Person;
-import warmup.dao.Relation;
+import com.warmup.dao.Person;
+import com.warmup.dao.Relation;
 
 public class GotGraphBuilder {
 	/**

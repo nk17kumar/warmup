@@ -1,4 +1,4 @@
-package warmup.dao;
+package com.warmup.dao;
 
 /**
  * Container class to organize command line inputs

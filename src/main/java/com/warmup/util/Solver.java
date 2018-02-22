@@ -1,4 +1,4 @@
-package warmup.util;
+package com.warmup.util;
 
 import java.util.Set;
 
@@ -6,7 +6,7 @@ import org.jgrapht.Graph;
 import org.jgrapht.alg.NaiveLcaFinder;
 import org.jgrapht.graph.DefaultEdge;
 
-import warmup.dao.Person;
+import com.warmup.dao.Person;
 
 /**
  * Utility to find LCAs of two person

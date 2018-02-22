@@ -1,12 +1,14 @@
-package warmup.demo;
-
-import warmup.dao.*;
-import warmup.util.*;
+package com.warmup.demo;
 
 import java.util.Set;
 
 import org.jgrapht.*;
 import org.jgrapht.graph.DefaultEdge;
+
+import com.warmup.dao.Input;
+import com.warmup.dao.Person;
+import com.warmup.util.GotGraphBuilder;
+import com.warmup.util.Solver;
 
 /**
  * @author nk17kumar

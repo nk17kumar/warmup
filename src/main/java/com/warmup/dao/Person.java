@@ -1,4 +1,4 @@
-package warmup.dao;
+package com.warmup.dao;
 
 import java.util.Map;
 

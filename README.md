@@ -10,10 +10,10 @@ ancestors for any two character from Game of Thrones
 ### Packages
 
 -  **warmup.demo**
-   * This contails the driver demo.java function to run the project
+   * This contains the driver demo.java function to run the project
 -  **warmup.dao**
    * This contains all the data objects that are used in the this project for
-   * organising and storing the info
+   * organizing and storing the info
 -  **warmup.util**
    * This contains the helper java files that provide functionality for execuitng
    * operations on the doa objects
