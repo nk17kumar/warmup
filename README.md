@@ -22,9 +22,12 @@ ancestors for any two character from Game of Thrones
 ### How to run
 
 -  Build the project
--  Navigate to warmup.demo directory
--  Run command java demo input1 input2 input3
-   Description of three command line arguments
+-  Navigate to **warmup.demo** package
+-  Run command
+   > java demo input1 input2 input3
+
+   Description of three command line arguments :
+
    - *input1* : denotes the name of .dot file stored in src/main/resource package.
             Currently, the file name is "**got.dot**" and can be found in the src/main/resource
    - *input2* : deontes the name of first GOT character
