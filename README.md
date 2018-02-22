@@ -15,7 +15,7 @@ ancestors for any two character from Game of Thrones
    * This contains all the data objects that are used in the this project for
    * organizing and storing the info
 -  **com.warmup.util**
-   * This contains the helper java files that provide functionality for execuitng
+   * This contains the helper java files that provide functionality for executing
    * operations on the doa objects
 
 
@@ -28,7 +28,8 @@ ancestors for any two character from Game of Thrones
 
    Description of three command line arguments :
 
-   - *input1* : denotes the name of .dot file stored in src/main/resource package.
-            Currently, the file name is "**got.dot**" and can be found in the src/main/resource
-   - *input2* : deontes the name of first GOT character
-   - *input3* : denotes the name of second GOT character
+   - **input1** : denotes the name of .dot file stored in src/main/resource package.Currently, the file name is "**got.dot**" and can be found in the src/main/resource
+   
+   - **input2** : denotes the name of first GOT character
+   
+   - **input3** : denotes the name of second GOT character
