@@ -7,6 +7,9 @@ This project imports the Game of Thrones .dot file and builds the directed graph
 from it. After building the graph, it can answer the queries on lowest common
 ancestors for any two character from Game of Thrones
 
+### Assumptions
+The Nodes on which we perform lowest commom ancestor query are not part of any loop or best the provided is a DAG
+
 ### Packages
 
 -  **com.warmup.demo**
