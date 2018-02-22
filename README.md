@@ -9,12 +9,12 @@ ancestors for any two character from Game of Thrones
 
 ### Packages
 
--  **warmup.demo**
+-  **com.warmup.demo**
    * This contains the driver demo.java function to run the project
--  **warmup.dao**
+-  **com.warmup.dao**
    * This contains all the data objects that are used in the this project for
    * organizing and storing the info
--  **warmup.util**
+-  **com.warmup.util**
    * This contains the helper java files that provide functionality for execuitng
    * operations on the doa objects
 
@@ -22,7 +22,7 @@ ancestors for any two character from Game of Thrones
 ### How to run
 
 -  Build the project
--  Navigate to **warmup.demo** package
+-  Navigate to **com.warmup.demo** package
 -  Run command
    > java demo input1 input2 input3
 
